@@ -8,8 +8,9 @@ public class GitPro {
 		
 		//This line added by kdogan
 		
+		// October 6 First
 		
-		
+		// October 6 forgot to add Second
 		
 	}
 

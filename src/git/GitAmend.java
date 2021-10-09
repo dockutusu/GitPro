@@ -5,7 +5,6 @@ public class GitAmend {
 	
 	// Hopefully last one
 	
-<<<<<<< HEAD
 	//MASTER
 	
 	
@@ -14,7 +13,5 @@ public class GitAmend {
 	
 	
 	//kdogan
-=======
->>>>>>> master
 
 }

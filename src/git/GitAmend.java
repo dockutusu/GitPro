@@ -6,5 +6,12 @@ public class GitAmend {
 	// Hopefully last one
 	
 	//MASTER
+	
+	
+	
+	
+	
+	
+	//kdogan
 
 }
